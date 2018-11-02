@@ -1,0 +1,14 @@
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\bin\Debug\netcoreapp2.1\RecruitingEventTest.deps.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\bin\Debug\netcoreapp2.1\RecruitingEventTest.runtimeconfig.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\bin\Debug\netcoreapp2.1\RecruitingEventTest.runtimeconfig.dev.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\bin\Debug\netcoreapp2.1\RecruitingEventTest.dll
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.csprojAssemblyReference.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.csproj.CoreCompileInputs.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.RazorAssemblyInfo.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.RazorAssemblyInfo.cs
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.AssemblyInfoInputs.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.AssemblyInfo.cs
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.RazorTargetAssemblyInfo.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\bin\Debug\netcoreapp2.1\RecruitingEventTest.pdb
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.dll
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\RecruitingEventTest\RecruitingEventTest\obj\Debug\netcoreapp2.1\RecruitingEventTest.pdb
